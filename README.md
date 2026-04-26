@@ -42,7 +42,11 @@
   - ServerScriptService — server-side game logic                                                                        
   - StarterPlayer / StarterGui — HUD (City Trust bar) and client logic                                                  
                                                                                                                         
-  ---                                                                                                                   
+  ---                 
+  ## Charecters
+   -Coach Rivera
+   -Dr. Veritas
+   -John Blackrock
                                                                                                                         
   ## Built at LA Hacks 2026                                                                                           
 
