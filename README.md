@@ -17,23 +17,13 @@
   - Trust goes down when you let rumors and bad takes go unchallenged.                                                
   - If trust hits zero, the city tips into chaos. Keep it high to win.                                                  
                                                                                                                         
-  The HUD shows the live City Trust percentage at the top of the screen.                                                
-                                                                                                                        
-  ---                                                                                                                   
-                                                                                                                      
-  ## Characters
-
-  - Dr. Veritas — a wandering scientist who can be found in the city plaza.                                             
-    Press E near him to Talk. He'll point you toward the next thing worth
-    investigating.                                                                                                      
-                                                                                                                      
-  (More NPCs to come as we keep building.)                                                                              
+  The HUD shows the live City Trust percentage at the top of the screen.                                                                                                                        
                                                                                                                       
   ---                                                                                                                   
                                                                                                                       
   ## How to play                                                                                                        
    
-  1. Open the place in Roblox Studio (or play the published version).                                                   
+  1. Open the place in Roblox Studio.                                                 
   2. Spawn into the city. Look up — that's your City Trust meter.                                                     
   3. Walk up to any NPC with a name tag. When the Talk prompt appears,                                                  
      press E.                                                                                                           
