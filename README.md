@@ -2,10 +2,7 @@
                                                                                                                         
   An LA Hacks 2026 project by Pranav, Devin, and Leona.                                                                 
    
-  Pixel Truth is a Roblox experience set in a city where the public's belief in                                          
-  what's real is slipping. You play a citizen trying to keep the city's trust                                         
-  meter from collapsing. Talk to NPCs around the city, hear their stories,                                              
-  and decide what to believe.                                                                                           
+  Pixel Truth is a Roblox experience set in a city where the public's belief in what's real is slipping. You play a citizen trying to keep the city's trust meter from collapsing. Talk to NPCs around the city, hear their stories, and decide what to believe.                                                                                           
                                                                                                                         
   ---                                                                                                                   
                                                                                                                       
